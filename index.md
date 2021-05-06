@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Wildfire
 
 You can use the [editor on GitHub](https://github.com/yeetboiii16/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
